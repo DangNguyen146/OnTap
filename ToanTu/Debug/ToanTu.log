@@ -1,0 +1,3 @@
+﻿  PhanSo.cpp
+F:\OOP\OOP_onTap\ToanTu\PhanSo.h(14,15): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+F:\OOP\OOP_onTap\ToanTu\PhanSo.cpp(5): error C4716: 'PhanSo::operator+': must return a value
